@@ -62,8 +62,9 @@ Sou uma profissional dedicada a impulsionar melhorias e automação de processos
 ### Stolle Machinery do Brasil (1 ano e 2 meses)
 #### Analista de PCP
 - Planejamento e controle de equipamentos para reformas.
-- Follow-up de projetos de máquinas, matéria-prima e serviços de terceiros.
-- Elaboração e controle de relatórios via Excel.
+- Follow-up de projetos de máquinas, matéria-prima nacional e importada e serviços de terceiros.
+- KPIs e Gestão a vista.
+- Customer service.
 
 ### Quality Parts (5 anos e 7 meses)
 #### Analista de PCP
