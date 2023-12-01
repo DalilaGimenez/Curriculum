@@ -9,7 +9,7 @@ Olá! Seja bem-vindo(a) ao meu repositório no GitHub. Aqui você encontrará in
 - **Localização:** Indaiatuba - São Paulo - Brasil
 
 ## Objetivo
-Busco oportunidades na área de **Analista de Planejamento**.
+Busco oportunidades na área de **Tecnologia e Dados**.
 
 ## Formação Acadêmica
 - **Análise e Desenvolvimento de Sistemas**
