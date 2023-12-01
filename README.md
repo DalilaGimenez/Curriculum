@@ -73,12 +73,14 @@ Sou uma profissional dedicada a impulsionar melhorias e automação de processos
 - Implantação de inventários de controle e aumento da acuracidade do estoque.
 
 ## Habilidades Técnicas
-- Linguagens: C#, Java, JavaScript, HTML, CSS, SQL, DAX, VBA.
-- Ferramentas: SAP, Protheus, Apolo - Alvo, DLX, Microsoft 365, Power Platform, Excel Avançado, Macros, Power BI, Alteryx.
-- Práticas: Desenvolvimento ágil, SCRUM.
+- Linguagens: VBA, C/C#, Java, JavaScript, HTML, CSS, TypeScript, SQL, DAX, SAP Script, ABAP, Python, React Native / Expo.
+- Ferramentas: SAP, Protheus, Apolo - Alvo, DLX, Microsoft 365, Power Platform, Excel Avançado, Macros, Power BI, Alteryx, Visual Studio Code, Eclipse, GitHub, Jira, Service Now, Worksoft, TestComplete
+- Práticas e Metodologias: Desenvolvimento ágil, SCRUM, 5W2H, 5S, PDCA, Diagrama de Ishikawa, Kaisen.
 
 ## Projetos Destacados
-- Automação de emissão de etiquetas via base de dados (Bartender).
+- Projeto de análise de dados contabeis com ferramenta Alteryx.
+- Projeto de análise de dados em Power Bi com integração ao Share Point.
+- Automação de emissão de etiquetas via base de dados local (aplicação para impressoras Bartender).
 - Automação de ordens de produção integrando procedimentos e otimizando rotina de trabalho via Excel.
 - Melhora no desempenho do arquivo Excel de cálculo de frete via programação VBA.
 - Implantação de inventários de controle (rotativo, por amostragem e geral) com aumento da acuracidade do estoque.
